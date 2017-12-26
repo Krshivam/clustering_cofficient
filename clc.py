@@ -1,4 +1,4 @@
-
+#finding clc for ORD
 def make_link(G, node1, node2):
     if node1 not in G:
         G[node1] = {}
